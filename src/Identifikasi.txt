@@ -1,0 +1,4 @@
+class	: mahasiswa, kecepatan
+object	: per mahasiswa, putaran, waktu yang dibutuhkan
+behavior: kecepatan
+atribut : nama, nim, jumlah_putaran, ukuran_lapangan, waktu
